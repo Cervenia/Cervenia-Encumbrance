@@ -13457,6 +13457,210 @@
       "name": "Yklwa",
       "path": "resources/weapon_yklwa_toa.rpg",
       "updated_at": "2026-11-11T00:58:59.185593"
+    },
+    {
+      "id": "06403db7-6954-4320-bba1-b34094c02b63",
+      "name": "ORE COPPER 6LB",
+      "path": "resources/item_06403db7-6954-4320-bba1-b34094c02b63.rpg",
+      "updated_at": "2026-11-06T21:53:22.556875"
+    },
+    {
+      "id": "0e42fe45-11fd-4ecf-8d52-2c995420a46c",
+      "name": "INGOT IRON",
+      "path": "resources/item_0e42fe45-11fd-4ecf-8d52-2c995420a46c.rpg",
+      "updated_at": "2026-11-06T22:39:11.744671"
+    },
+    {
+      "id": "166f5960-dc91-4eb6-97bd-6e2ace7fe78b",
+      "name": "RUBY UNAPPRAISED",
+      "path": "resources/item_166f5960-dc91-4eb6-97bd-6e2ace7fe78b.rpg",
+      "updated_at": "2026-11-06T22:29:19.477460"
+    },
+    {
+      "id": "1bef0c0b-d97e-4ab5-b921-12914321e6ee",
+      "name": "ORE COPPER 20LB",
+      "path": "resources/item_1bef0c0b-d97e-4ab5-b921-12914321e6ee.rpg",
+      "updated_at": "2026-11-06T21:53:02.347280"
+    },
+    {
+      "id": "283a3181-cdfc-416b-af7c-ec3a0220f222",
+      "name": "AMETHYST UNCOMMON",
+      "path": "resources/item_283a3181-cdfc-416b-af7c-ec3a0220f222.rpg",
+      "updated_at": "2026-11-06T22:23:14.513088"
+    },
+    {
+      "id": "2908d05e-7720-4fe3-ac03-3bf8d4d440a1",
+      "name": "AMETHYST RARE",
+      "path": "resources/item_2908d05e-7720-4fe3-ac03-3bf8d4d440a1.rpg",
+      "updated_at": "2026-11-06T22:14:21.605020"
+    },
+    {
+      "id": "31a8d56d-4a62-49fa-9e7e-f3a03fcf811a",
+      "name": "TOPAZ RARE",
+      "path": "resources/item_31a8d56d-4a62-49fa-9e7e-f3a03fcf811a.rpg",
+      "updated_at": "2026-11-10T17:37:31.213726"
+    },
+    {
+      "id": "364c8236-9ce1-4381-8215-c1ea19a732cb",
+      "name": "RUBY RARE",
+      "path": "resources/item_364c8236-9ce1-4381-8215-c1ea19a732cb.rpg",
+      "updated_at": "2026-11-06T22:31:56.862669"
+    },
+    {
+      "id": "3ccd3dff-fe2a-4e73-8490-c446fa564c27",
+      "name": "AMETHYST COMMON",
+      "path": "resources/item_3ccd3dff-fe2a-4e73-8490-c446fa564c27.rpg",
+      "updated_at": "2026-11-06T22:12:05.178240"
+    },
+    {
+      "id": "3eea16f4-0b9c-423d-93e6-a0de79813028",
+      "name": "WYRMLING SCALE COPPER",
+      "path": "resources/item_3eea16f4-0b9c-423d-93e6-a0de79813028.rpg",
+      "updated_at": "2026-11-07T15:23:57.854397"
+    },
+    {
+      "id": "4e65774e-8041-4730-ab9e-c353a345cadb",
+      "name": "WYRMLING SCALE",
+      "path": "resources/item_4e65774e-8041-4730-ab9e-c353a345cadb.rpg",
+      "updated_at": "2026-11-07T15:23:00.470929"
+    },
+    {
+      "id": "5f7e31a0-9417-44f7-946b-705e9fd6e79d",
+      "name": "INGOT COPPER",
+      "path": "resources/item_5f7e31a0-9417-44f7-946b-705e9fd6e79d.rpg",
+      "updated_at": "2026-11-06T22:40:15.665701"
+    },
+    {
+      "id": "6340228b-d4a6-46d5-b679-6905d3961247",
+      "name": "ORE SILVER 12LB",
+      "path": "resources/item_6340228b-d4a6-46d5-b679-6905d3961247.rpg",
+      "updated_at": "2026-11-06T22:11:08.720677"
+    },
+    {
+      "id": "7b11eda0-84e3-42b3-9bf6-41e751149c82",
+      "name": "AMETHYST UNAPPRAISED",
+      "path": "resources/item_7b11eda0-84e3-42b3-9bf6-41e751149c82.rpg",
+      "updated_at": "2026-11-06T22:12:10.301076"
+    },
+    {
+      "id": "814524c4-2d2a-4d01-981b-b7c7bbcf243f",
+      "name": "ORE COPPER 12LB",
+      "path": "resources/item_814524c4-2d2a-4d01-981b-b7c7bbcf243f.rpg",
+      "updated_at": "2026-11-06T21:52:36.572572"
+    },
+    {
+      "id": "8bdbb0b4-c5d6-4548-a3bf-fc09aab53ef0",
+      "name": "ORE IRON 12LB",
+      "path": "resources/item_8bdbb0b4-c5d6-4548-a3bf-fc09aab53ef0.rpg",
+      "updated_at": "2026-11-06T21:53:41.984295"
+    },
+    {
+      "id": "8bed7e97-9423-48b3-aed2-32785de033a7",
+      "name": "WYRMLING SCALE GOLD",
+      "path": "resources/item_8bed7e97-9423-48b3-aed2-32785de033a7.rpg",
+      "updated_at": "2026-11-07T15:24:09.453252"
+    },
+    {
+      "id": "8cd37af0-8665-485f-81c0-1f8c17261c68",
+      "name": "INGOT",
+      "path": "resources/item_8cd37af0-8665-485f-81c0-1f8c17261c68.rpg",
+      "updated_at": "2026-11-06T22:37:25.332220"
+    },
+    {
+      "id": "8f3b7421-9731-463b-ac28-b112d9a4fb16",
+      "name": "ORE IRON 6LB",
+      "path": "resources/item_8f3b7421-9731-463b-ac28-b112d9a4fb16.rpg",
+      "updated_at": "2026-11-06T21:54:25.784686"
+    },
+    {
+      "id": "917c8d7e-0511-4f93-9677-a0afcb9a937d",
+      "name": "MINE DOG ESSANCE ORGAN",
+      "path": "resources/item_917c8d7e-0511-4f93-9677-a0afcb9a937d.rpg",
+      "updated_at": "2026-11-07T15:32:07.816436"
+    },
+    {
+      "id": "91d25685-7fab-4d3e-850d-3f0a8defa8a3",
+      "name": "INGOT SILVER",
+      "path": "resources/item_91d25685-7fab-4d3e-850d-3f0a8defa8a3.rpg",
+      "updated_at": "2026-11-06T22:42:44.626768"
+    },
+    {
+      "id": "95992e67-ce80-433e-b009-7e6080bc97e0",
+      "name": "ORE SILVER 6LB",
+      "path": "resources/item_95992e67-ce80-433e-b009-7e6080bc97e0.rpg",
+      "updated_at": "2026-11-06T22:11:32.734967"
+    },
+    {
+      "id": "a653f88b-3d3b-4dbe-a106-c24d6cd27998",
+      "name": "TOPAZ COMMON",
+      "path": "resources/item_a653f88b-3d3b-4dbe-a106-c24d6cd27998.rpg",
+      "updated_at": "2026-11-06T22:21:31.033196"
+    },
+    {
+      "id": "a6f136d2-e087-4f2a-aaf3-809b0595fac9",
+      "name": "TOPAZ UNAPPRAISED",
+      "path": "resources/item_a6f136d2-e087-4f2a-aaf3-809b0595fac9.rpg",
+      "updated_at": "2026-11-06T22:20:06.472434"
+    },
+    {
+      "id": "bc63f7ac-2e25-4ffd-adcc-e83328b3876f",
+      "name": "ORE SILVER 20LB",
+      "path": "resources/item_bc63f7ac-2e25-4ffd-adcc-e83328b3876f.rpg",
+      "updated_at": "2026-11-06T22:11:15.537837"
+    },
+    {
+      "id": "e0767548-4453-4f7f-8b86-66570315b534",
+      "name": "RUBY UNCOMMON",
+      "path": "resources/item_e0767548-4453-4f7f-8b86-66570315b534.rpg",
+      "updated_at": "2026-11-06T22:31:39.639991"
+    },
+    {
+      "id": "e0a921ac-c5a7-4541-b712-a649eda32142",
+      "name": "TOPAZ UNCOMMON",
+      "path": "resources/item_e0a921ac-c5a7-4541-b712-a649eda32142.rpg",
+      "updated_at": "2026-11-06T22:23:40.176189"
+    },
+    {
+      "id": "e840ddef-7142-43e4-8e4c-afa0a569a29d",
+      "name": "BOAR PELT",
+      "path": "resources/item_e840ddef-7142-43e4-8e4c-afa0a569a29d.rpg",
+      "updated_at": "2026-11-05T13:29:18.343441"
+    },
+    {
+      "id": "f33b2f73-2da1-4989-ac12-7074561ff1b2",
+      "name": "MINE DOG PLATE",
+      "path": "resources/item_f33b2f73-2da1-4989-ac12-7074561ff1b2.rpg",
+      "updated_at": "2026-11-07T15:25:56.172384"
+    },
+    {
+      "id": "f7e79dd7-b393-48a1-a39f-2c7dbd3cc657",
+      "name": "RUBY COMMON",
+      "path": "resources/item_f7e79dd7-b393-48a1-a39f-2c7dbd3cc657.rpg",
+      "updated_at": "2026-11-06T22:29:50.384480"
+    },
+    {
+      "id": "fe5cd451-d188-4067-8ced-86a631df8c32",
+      "name": "ORE IRON 2OLB",
+      "path": "resources/item_fe5cd451-d188-4067-8ced-86a631df8c32.rpg",
+      "updated_at": "2026-11-06T21:53:59.687477"
+    },
+    {
+      "id": "7250d7b8-0cdd-4e7c-b8c3-9948f608bfb8",
+      "name": "SYTHE",
+      "path": "resources/weapon_7250d7b8-0cdd-4e7c-b8c3-9948f608bfb8.rpg",
+      "updated_at": "2026-11-07T14:45:43.488379"
+    },
+    {
+      "id": "72fb08c3-a8ee-4b7f-9f71-fdee8db6e822",
+      "name": "VAELKOR'S SACRIFICIAL DAGGER",
+      "path": "resources/weapon_72fb08c3-a8ee-4b7f-9f71-fdee8db6e822.rpg",
+      "updated_at": "2026-11-07T14:44:52.935769"
+    },
+    {
+      "id": "a1586b1a-98dc-475c-b0d7-0fdf0b85a8bd",
+      "name": "FLAMING SHORTSWORD WITH VALKOR INSCRIBED",
+      "path": "resources/weapon_a1586b1a-98dc-475c-b0d7-0fdf0b85a8bd.rpg",
+      "updated_at": "2026-11-07T14:44:44.921980"
     }
   ]
 }
