@@ -1,0 +1,12 @@
+{
+  "systems": [
+    {
+      "id": "Cervenia",
+      "name": "Cervenia",
+      "abbreviation": "Cervenia",
+      "version": "0.9.1",
+      "min_app_version": "1.2.0",
+      "path": "Cervenia"
+    }
+  ]
+}
