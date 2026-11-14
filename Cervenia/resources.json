@@ -13667,6 +13667,66 @@
       "path": "resources/class_e77b2743-b367-4627-bc5e-94eb802de86c.rpg",
       "updated_at": "2026-10-24T23:40:29.705532",
       "id": "e77b2743-b367-4627-bc5e-94eb802de86c"
+    },
+    {
+      "name": "KAIGER IRON MINES D3 FLOORS 1-2",
+      "path": "resources/encounter_template_2c89c4e9-9403-4d87-93e2-79eb9952c367.rpg",
+      "id": "2c89c4e9-9403-4d87-93e2-79eb9952c367",
+      "updated_at": "2026-11-07T15:19:53.661893"
+    },
+    {
+      "name": "KAIGER IRON MINES D4 FLOORS 1-2",
+      "path": "resources/encounter_template_6582fd9d-9249-4991-b86f-3c9f8979f895.rpg",
+      "id": "6582fd9d-9249-4991-b86f-3c9f8979f895",
+      "updated_at": "2026-11-07T15:19:31.576664"
+    },
+    {
+      "name": "KAIGER IRON MINES D2 FLOORS 1-2",
+      "path": "resources/encounter_template_950f4857-136e-46a5-853f-81b0c4de3fc3.rpg",
+      "id": "950f4857-136e-46a5-853f-81b0c4de3fc3",
+      "updated_at": "2026-11-07T15:08:10.016748"
+    },
+    {
+      "name": "KAIGER IRON MINES FLOOR 3",
+      "path": "resources/encounter_template_e4033fca-3965-486d-8dd8-a66cc19a4b0d.rpg",
+      "id": "e4033fca-3965-486d-8dd8-a66cc19a4b0d",
+      "updated_at": "2026-11-07T15:18:18.458899"
+    },
+    {
+      "name": "KAIGER IRON MINES D1 FLOORS 1-2",
+      "path": "resources/encounter_template_e4c874db-5615-4302-a711-c27bba0a9ea1.rpg",
+      "id": "e4c874db-5615-4302-a711-c27bba0a9ea1",
+      "updated_at": "2026-11-07T15:05:59.237546"
+    },
+    {
+      "name": "Kaiger Iron Mines",
+      "path": "resources/encounter_template_87fd39bf-e59d-4670-9dae-feaeabb1136f.rpg",
+      "id": "87fd39bf-e59d-4670-9dae-feaeabb1136f",
+      "updated_at": "2026-10-31T18:01:14.643649"
+    },
+    {
+      "name": "GOLD DRAGON WYRMLING",
+      "path": "resources/monster_2989b8ea-0666-4f9e-9508-3981bfe45cbf.rpg",
+      "id": "2989b8ea-0666-4f9e-9508-3981bfe45cbf",
+      "updated_at": "2026-11-14T17:11:56.268055"
+    },
+    {
+      "name": "MINE DOG",
+      "path": "resources/monster_320e8aa5-8f5e-4f4d-8267-535f68e8c2c7.rpg",
+      "id": "320e8aa5-8f5e-4f4d-8267-535f68e8c2c7",
+      "updated_at": "2026-11-14T17:12:19.424697"
+    },
+    {
+      "name": "COPPERDRAGON WYRMLING",
+      "path": "resources/monster_53a878a5-16c5-4508-98b1-28ea0008b737.rpg",
+      "id": "53a878a5-16c5-4508-98b1-28ea0008b737",
+      "updated_at": "2026-11-14T17:11:29.378383"
+    },
+    {
+      "name": "MINE DOG ADULT",
+      "path": "resources/monster_88f61489-664b-4345-adb1-b12710b502e4.rpg",
+      "id": "88f61489-664b-4345-adb1-b12710b502e4",
+      "updated_at": "2026-11-14T17:12:35.414916"
     }
   ]
 }
