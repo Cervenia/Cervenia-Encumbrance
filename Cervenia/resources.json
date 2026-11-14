@@ -13661,6 +13661,12 @@
       "name": "FLAMING SHORTSWORD WITH VALKOR INSCRIBED",
       "path": "resources/weapon_a1586b1a-98dc-475c-b0d7-0fdf0b85a8bd.rpg",
       "updated_at": "2026-11-07T14:44:44.921980"
+    },
+    {
+      "name": "Reaper",
+      "path": "resources/class_e77b2743-b367-4627-bc5e-94eb802de86c.rpg",
+      "updated_at": "2026-10-24T23:40:29.705532",
+      "id": "e77b2743-b367-4627-bc5e-94eb802de86c"
     }
   ]
 }
